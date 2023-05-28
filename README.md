@@ -5,6 +5,7 @@ Detailed development and implementation of:
 - Continuous Counting Sensor Model (C-CSM);
 - Discrete Semantic Counting Sensor Model (D-SCSM) &
 - Countinuous Semantic Counting Sensor Model (C-SCSM)
+- BKI Semantic Mapping
 
 
 ## Sensor Model / Occupancy Mapping
