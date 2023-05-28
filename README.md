@@ -7,7 +7,7 @@ Detailed development and implementation of:
 - Countinuous Semantic Counting Sensor Model (C-SCSM)
 
 
-# Results
+# Sensor Model / Occupancy Mapping
 
 Model & Info        |  Map          |  Variance Map    
 :-------------------------:|:-------------------------:|:-------------------------:
