@@ -47,4 +47,6 @@ Read the README in the BKI semantic repository and do the following steps:
 3. Run the demo with the following command:
 • roslaunch semantic_bki semantickitti_node.launch
 
+### Simulation
 
+![](https://github.com/DhyeyR-007/Robot-Mapping/blob/main/BKI%20Semantic%20Mapping%20Simulation.gif)
